@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FinEase</string>
+    <string name="applogo">AppLogo</string>
+    <string name="finease">FinEase</string>
+    <string name="messages">messages</string>
+    <string name="setting">setting</string>
+    <string name="home">home</string>
+    <string name="about">about</string>
+    <string name="bin">Bin</string>
+    <string name="logout">Logout</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="sync">Sync</string>
+    <string name="feedback">Feedback</string>
+    <string name="report">Report</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+<!--    title of message fragment-->
+    <string name="title_1">first title</string>
+    <string name="title_2">second title</string>
+    <string name="title_3">third title</string>
+    <string name="title_4">fourth title</string>
+
+<!--    description of message fragment-->
+    <string name="desc_1">description 1</string>
+    <string name="desc_2">description 2</string>
+    <string name="desc_3">description 3</string>
+    <string name="desc_4">description 4</string>
+
+
+</resources>
